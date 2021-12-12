@@ -3,7 +3,7 @@
 
 ## **总结**
 * 这是一篇关于Kaggle入门竞赛 **House Prices - Advanced Regression Techniques**的分享。通过探索性分析，数据预处理，特征工程以及模型构建综合分析房屋相关特征数据，通过机器学习建立并选择最优模型，对test数据集中房价进行预测。
-* 基于Python机器学习库xgboost, sklearn参加Kaggle房价预测比赛实现实现回归，本项目使用多种模型结合，适当调参后得分在0.12434-0.12796左右浮动。另有一版本调节SVR模型进行预测，最高0.11685分，128名（Top3%）尚在完善后续会更新。
+* 基于Python机器学习库xgboost, sklearn参加Kaggle房价预测比赛实现实现回归，本项目使用多种模型结合，适当调参后得分在0.12308。另有一版本调节SVR模型进行预测，最高0.11685分，128名（Top3%）尚在完善后续会更新。
 * 开发环境:Python 3.86
 <img src="/image/rank.png" align="center" width="900px"/>
 <img src="/image/score_of_this_project.png" align="center" width="900px"/>
