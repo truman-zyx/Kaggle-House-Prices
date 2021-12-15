@@ -1,9 +1,9 @@
 # Kaggle-House-Prices-
-关于Kaggle入门竞赛House Prices 房价预测的比赛，尝试最高排名为Top3%
+关于Kaggle入门竞赛House Prices 房价预测的比赛，0.12308分，660名，Top10%左右。
 
 ## **总结**
 * 这是一篇关于Kaggle入门竞赛 **House Prices - Advanced Regression Techniques**的分享。通过探索性分析，数据预处理，特征工程以及模型构建综合分析房屋相关特征数据，通过机器学习建立并选择最优模型，对test数据集中房价进行预测。
-* 基于Python机器学习库xgboost, sklearn参加Kaggle房价预测比赛实现实现回归，本项目使用多种模型结合，适当调参后得分在0.12308，600名左右。
+* 基于Python机器学习库xgboost, sklearn参加Kaggle房价预测比赛实现实现回归，本项目使用多种模型结合，适当调参后得分在0.12308，660名，Top10%左右。
 * 另有一版本调节SVR模型进行预测，最高0.11685分，128名（Top3%）尚在完善后续会更新。
 * 开发环境:Python 3.86
 <img src="/image/rank.png" align="center" width="900px"/>
